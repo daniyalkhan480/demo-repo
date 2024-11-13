@@ -43,3 +43,8 @@ no changes added to commit (use "git add" and/or "git commit -a")
 
 # to add to commit, we have to add these file to staged status
 git add .
+
+<!-- To commit -->
+# to commit change locally
+git commit -m "some message"
+
